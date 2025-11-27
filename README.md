@@ -1,2 +1,2 @@
 # AI-Data-Copilot
-A LM based co pilot for Data Cleaning and Visualization
+A LLM based co pilot for Data Cleaning and Visualization
